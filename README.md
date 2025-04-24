@@ -1,5 +1,7 @@
 # Xacaton
 
+## Перед работай с сайтом в папку model нужно вставить vosk разорхивированный: https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip как прийду буду переводить на https://alphacephei.com/vosk/models/vosk-model-ru-0.42.zip .
+
 ## Как запустить проект:
 
 1)  Выберите папку где хотите сохранить код сайта и перейдите в неё в командной строке.
