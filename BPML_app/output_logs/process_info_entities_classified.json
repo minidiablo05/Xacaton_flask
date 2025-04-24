@@ -1,0 +1,10 @@
+[
+    {
+        "entity_group": "PROCESS_START",
+        "score": 0.9900307655334473,
+        "word": "The process begins",
+        "start": 0,
+        "end": 18,
+        "classification_score": 0.5577102899551392
+    }
+]

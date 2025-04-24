@@ -1,0 +1,27 @@
+[
+    {
+        "sentence": "The process begins when the student logs in to the university's website.",
+        "start": 0,
+        "end": 72
+    },
+    {
+        "sentence": "He then takes an online exam.",
+        "start": 73,
+        "end": 102
+    },
+    {
+        "sentence": "After that, the system grades it.",
+        "start": 103,
+        "end": 136
+    },
+    {
+        "sentence": "If the student scores below 60%, he takes the exam again.",
+        "start": 137,
+        "end": 194
+    },
+    {
+        "sentence": "If the student scores 60% or higher on the exam, the professor enters the grade.",
+        "start": 195,
+        "end": 275
+    }
+]

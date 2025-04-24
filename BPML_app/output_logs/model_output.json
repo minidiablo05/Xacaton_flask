@@ -1,0 +1,93 @@
+[
+    {
+        "entity_group": "PROCESS_INFO",
+        "score": 0.9900307655334473,
+        "word": "The process begins",
+        "start": 0,
+        "end": 18
+    },
+    {
+        "entity_group": "AGENT",
+        "score": 0.9944682121276855,
+        "word": "the student",
+        "start": 24,
+        "end": 35
+    },
+    {
+        "entity_group": "TASK",
+        "score": 0.9925763607025146,
+        "word": "logs in",
+        "start": 36,
+        "end": 43
+    },
+    {
+        "entity_group": "TASK_INFO",
+        "score": 0.8303151726722717,
+        "word": "to the university ' s website",
+        "start": 44,
+        "end": 71
+    },
+    {
+        "entity_group": "TASK",
+        "score": 0.9956896305084229,
+        "word": "takes an online exam",
+        "start": 81,
+        "end": 101
+    },
+    {
+        "entity_group": "AGENT",
+        "score": 0.955339252948761,
+        "word": "the system",
+        "start": 115,
+        "end": 125
+    },
+    {
+        "entity_group": "TASK",
+        "score": 0.9891875982284546,
+        "word": "grades it",
+        "start": 126,
+        "end": 135
+    },
+    {
+        "entity_group": "CONDITION",
+        "score": 0.9912119507789612,
+        "word": "If the student scores below 60 %",
+        "start": 137,
+        "end": 168
+    },
+    {
+        "entity_group": "TASK",
+        "score": 0.933850109577179,
+        "word": "takes the exam again",
+        "start": 173,
+        "end": 193
+    },
+    {
+        "entity_group": "CONDITION",
+        "score": 0.983146071434021,
+        "word": "If the student scores 60 % or higher on the",
+        "start": 195,
+        "end": 237
+    },
+    {
+        "entity_group": "TASK_INFO",
+        "score": 0.42926231026649475,
+        "word": "exam",
+        "start": 238,
+        "end": 242
+    },
+    {
+        "entity_group": "AGENT",
+        "score": 0.9921272993087769,
+        "word": "the professor",
+        "start": 244,
+        "end": 257
+    },
+    {
+        "entity_group": "TASK",
+        "score": 0.9939689636230469,
+        "word": "enters the grade",
+        "start": 258,
+        "end": 274
+    }
+]

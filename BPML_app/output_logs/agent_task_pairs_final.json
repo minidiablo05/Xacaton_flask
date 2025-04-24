@@ -1,0 +1,76 @@
+[
+    {
+        "agent": {
+            "original_word": "the student",
+            "resolved_word": "the student",
+            "entity": {
+                "entity_group": "AGENT",
+                "score": 0.9944682121276855,
+                "word": "the student",
+                "start": 24,
+                "end": 35
+            }
+        },
+        "task": {
+            "entity_group": "TASK",
+            "score": 0.9925763607025146,
+            "word": "logs in",
+            "start": 36,
+            "end": 43,
+            "task_id": "T0"
+        },
+        "sentence_idx": 0
+    },
+    {
+        "agent": {
+            "original_word": "the system",
+            "resolved_word": "the system",
+            "entity": {
+                "entity_group": "AGENT",
+                "score": 0.955339252948761,
+                "word": "the system",
+                "start": 115,
+                "end": 125
+            }
+        },
+        "task": {
+            "entity_group": "TASK",
+            "score": 0.9891875982284546,
+            "word": "grades it",
+            "start": 126,
+            "end": 135,
+            "task_id": "T1"
+        },
+        "sentence_idx": 2
+    },
+    {
+        "agent": {
+            "original_word": "the professor",
+            "resolved_word": "the professor",
+            "entity": {
+                "entity_group": "AGENT",
+                "score": 0.9921272993087769,
+                "word": "the professor",
+                "start": 244,
+                "end": 257
+            }
+        },
+        "task": {
+            "entity_group": "TASK",
+            "score": 0.9939689636230469,
+            "word": "enters the grade",
+            "start": 258,
+            "end": 274,
+            "task_id": "T2"
+        },
+        "sentence_idx": 4,
+        "condition": {
+            "entity_group": "CONDITION",
+            "score": 0.983146071434021,
+            "word": "If the student scores 60 % or higher on the",
+            "start": 195,
+            "end": 237,
+            "condition_id": "C0"
+        }
+    }
+]
